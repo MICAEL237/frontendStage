@@ -1,8 +1,9 @@
 
-import Register from "../src/auth/pages/register"
+// import Register from "./auth/register/page"
 
 export default function Home() {
   return <>
-          <Register/>
+  <h1 className=""></h1>
+          {/* <Register/> */}
   </>
 }
